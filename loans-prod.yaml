@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to FunBank loans related PROD API"
+  contactDetails:
+    name: "Rupali Koli"
+    email: "rupali@gmail.com"
+  onCallSupport:
+    -(+91)1102304020
+    -(+91)6252515414

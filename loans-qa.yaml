@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to FunBank loans related QA API"
+  contactDetails:
+    name: "Lokesh Koli"
+    email: "lokesh@gmail.com"
+  onCallSupport:
+    -(+91)1102304020
+    -(+91)6252515414

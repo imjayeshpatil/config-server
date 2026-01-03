@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to FunBank cards related PROD API"
+  contactDetails:
+    name: "Rupali Koli"
+    email: "rupali@gmail.com"
+  onCallSupport:
+    -(+91)1102304020
+    -(+91)6252515414
