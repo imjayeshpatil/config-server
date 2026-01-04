@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to FunBank accounts related PROD API"
   contactDetails:
     name: "Rupali Koli"
-    email: "{cipher}31b5d7329426ba4cd6e0620fddd2d0adb3a112725cd3905d73b15deae69bdad789aa6441fa008c429d785321494fd154"
+    email: "{cipher}97d85e19cf8c9719e0a426c154cfce887949cb9f478ef74cf743473eeac50ad364b4aa8b21137ba57da429a41a7b95c4"
   onCallSupport:
     -(+91)1102304020
     -(+91)6252515414
