@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to FunBank accounts related local API"
   contactDetails:
-    name: "Jayesh Patil"
+    name: "Jayesh A Patil"
     email: "jayeshpatil123@gmail.com"
   onCallSupport:
       -(+91)1102304020
