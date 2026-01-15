@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to FunBank accounts related local default API"
+  message: "Welcome to FunBank accounts related local API"
   contactDetails:
     name: "Jayesh A Patil"
     email: "jayeshpatil123@gmail.com"
